@@ -32,3 +32,16 @@ GraphQL Tutorials Beginner to Advanced Tutorials
 - user can book the Event
 - user can cancel the book Event
 - dynamic relations between user and events
+
+# 4.Course API Example GraphQL Tutorial
+## Features
+- Role Based Authentication(Student and creator) using jwt
+- Hash The Student and Creator password
+- Register Student and creator
+- Role Based Login (student and creator)
+- creator can create a course
+- student can anroll that course
+- count the How many students have anrolled the course
+- enum type(stack)
+- dynamic relations between creator and courses
+- another dynamic relations between student and courses
